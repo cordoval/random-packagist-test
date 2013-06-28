@@ -1,4 +1,5 @@
 {
+    "name": "cordoval/random-packagist-test",
     "replace":  {
         "symfony/http-foundation": "2.3.0"
     }
