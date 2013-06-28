@@ -1,1 +1,5 @@
-{ "replace": { "symfony/http-foundation": "2.3.0" } }
+{
+    "replace":  {
+        "symfony/http-foundation": "2.3.0"
+    }
+}
